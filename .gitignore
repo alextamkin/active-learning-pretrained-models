@@ -1,0 +1,5 @@
+**/*.npz
+**/__pycache__/
+**/*.jpg
+**/*.json
+*.pth
